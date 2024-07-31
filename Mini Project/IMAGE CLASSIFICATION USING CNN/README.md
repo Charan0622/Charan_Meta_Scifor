@@ -44,7 +44,7 @@ Vehicle type recognition is a crucial technology for modern intelligent transpor
 ### Results and Discussion
 - **Training Accuracy**: The model achieved high training accuracy, indicating it learned the patterns well.
 - **Validation Accuracy**: The validation accuracy was slightly lower than the training accuracy, suggesting a good generalization.
-- **Test Accuracy**: The model's performance on the test set was satisfactory, with an accuracy of [insert accuracy]%.
+- **Test Accuracy**: The model's performance on the test set was satisfactory.
 - **Precision, Recall, and F1-Score**: Evaluated to measure the model's effectiveness in predicting each class accurately.
 
 ### Conclusion

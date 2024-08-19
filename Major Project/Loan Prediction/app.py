@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 
 # Load the model
-model = pickle.load(open('C:/Users/gchar/Scifor_Major_Project/ML_Model.pkl', 'rb'))
+model = pickle.load(open('Major Project/Loan Prediction/ML_Model.pkl', 'rb'))
 
 def run():
     st.set_page_config(page_title="Loan Prediction", page_icon="🏦", layout="wide")
